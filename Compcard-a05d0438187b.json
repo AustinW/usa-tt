@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "compcard-222510",
+  "private_key_id": "a05d0438187bca854e6de37a2cc3eb0e5ce6847f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCon59myjsZFUT4\ngbT/zmJPQ8rDyjAMm7SpCU7C51kCUIUi/VwI4O//vHd3YCcZAMd8Lxx1Yjhnt0Ot\nyvVvbPJ5fT1xzYSPCbNqB0DA74pNWCLtlVUyKPu59XhPdgFzTWWB2yV6esKsHA5A\n1Kxu+5uwstCda2r8hs25+s3ZTSzawDa0uCnug8drFLcO+CqHspIGB0uU+L+SG326\nEqtrP2knTzMjINjFk2YPEACkWWcaP8jU8cq62kbbg+RnZoPXymKoX47GcSvGejC+\nAwKc2E9PBxJjChCQu4xPDPtXjGxW2DDN3mAVIo8jZR7wIM17/icEwdOF0zJuj99f\n6NjLawjLAgMBAAECggEAB3cWXbzYLlBUJ62ZpV55waNrdt5c4Qcb3WHuPk/nmx43\njrRpahWTozW8e7SFX1MjpKjy6rnUa+ZUGvIwW8GLDmRP5U4KGBrcy5jBD133IS52\nOWZdw7aBDKbERxrZSDnUdR2Z1fBBp9CEKHqzVrAi2s7quP4j2eeOF2+wITxGfDmX\nsr8mlzobXuDHQPuH3iEB/zDP6w5dpk3RigSfJlQdlONa2jcnI43waPw6Gc2EYX9N\ngkT335pCbAv4h1JUYtWVK5U+vdEJ7MxvS7LXejDso8RVGTtLGMw73uUP8lAK1z5d\n4IeWIv7Y4NGBujqScAkRjDSWe2sT0EWB8i0KmGPc9QKBgQDia6ktyQvndMZRio3+\nuCJFsi3KBcAVkRSmzt2sWaZMhGw9peKH8RqJmjSt1yM68blBosWkdqtsBsyF3f6G\nG/4hfJqIs0I9jgG5k/+0XiFI8ygwBekoDO1rIJY/CrFWpNWfOgXQrAKtp7jVV4K3\n0lfibFh+50QGwbni1hWV5nHtVwKBgQC+pwQUFZbEkS6d9ZaqcngCzc3yLCOClsft\nXUtL5maTBkpnJrPSpok0FBjf2PG4NfsaeHTAq/1MOz6UZrgWn/icfljdlisltZ0F\nj3Xw3Q7Gg3ELyJTxFuiVq3a6wEoi8PAdAb9SqsJffDl+CK3X9VMkISgYAbxkxGbf\nueSt72NjrQKBgFJpeWSO3uRaHq0jT1e9UcwodH4p5aZz7h5hAVJwNxV2xacSsAdm\n/I/FLxNvUQVtYk6/nkykXPSu7NZ03OWXXsJ1hhHnnV6mR35yngnakSbqSmBgZmML\ngYcSj11W2QF+cbrI9cDkOv1WJPKSLaQWzaI+aV+Xca076hrkbWroO+N1AoGAcGLy\nA4jqdHuE+HayV03dMwHw+mZMlImf12vcnCR4qQjXSVFGRdIIJVwHgcVYUJf5qxQA\n9ycrzQlLjZ2zvRqWKmJMrmr8imEx6/oys0cMk7ceJ60ZJ7myZ7BI8DO0QD65vM+v\n4eJpbHJFTed920VxumWVRfmX/erNHetuQ55Pf40CgYEAlm3WsXit72c69U9xJeJT\nzX9dHJjvZK1esVFBocnmA09hPK2Fk1nVanI9eC+7mUdRfWOfnUobf+zytv/5uGHk\nxURBpmw1wLT/FcT4hg6KEbFwjzaNEjSmNjNz5X44NR27AbRsNWtREmSrD2cNvoMP\nhJByRrHLrM79mykEY14QXMs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "austin-white@compcard-222510.iam.gserviceaccount.com",
+  "client_id": "112695651171243596671",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/austin-white%40compcard-222510.iam.gserviceaccount.com"
+}
