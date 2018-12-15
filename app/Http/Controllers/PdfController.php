@@ -2,8 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
 use mikehaertl\pdftk\Pdf;
+use Illuminate\Http\Request;
 
 class PdfController extends Controller
 {
