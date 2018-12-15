@@ -9,7 +9,7 @@ class PdfController extends Controller
 {
     public function autofill(Request $request)
     {
-        $template = storage_path('app/templates/' . $request->get('pdf'));
+        $template = storage_path($request->get('pdf'));
         
         if (!file_exists($template)) {
             return view('error');
@@ -39,6 +39,6 @@ class PdfController extends Controller
             throw new \Exception($pdf->getError());
         }
         
-        return response()->file($output);
+        return response()->file($output)->deleteFileAfterSend();
     }
 }
