@@ -19,7 +19,7 @@ class PdfController extends Controller
             'command' => '/app/bin/pdftk'
         ]);
 
-        $output = storage_path('/tmp/mobility-' . time() . '.pdf');
+        $output = '/tmp/' . urldecode($request->get('athlete_name')) . '.pdf';
 
         $fields = collect($request->all())->map(function ($value, $key) {
             if ($key === 'athlete_birth_year') {
