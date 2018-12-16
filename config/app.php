@@ -226,6 +226,8 @@ return [
 
     'team' => 'World Elite Gymnastics',
 
+    'pdftk' => env('PDFTK'),
+
     'compcard' => [
         'folder' => 'compcards',
         'templates' => [

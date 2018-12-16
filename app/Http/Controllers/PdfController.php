@@ -16,7 +16,7 @@ class PdfController extends Controller
         }
 
         $pdf = new Pdf($template, [
-            'command' => '/app/bin/pdftk'
+            'command' => config('app.pdftk')
         ]);
 
         $output = '/tmp/' . urldecode($request->get('athlete_name')) . '.pdf';
