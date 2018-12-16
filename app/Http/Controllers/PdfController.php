@@ -16,6 +16,7 @@ class PdfController extends Controller
         }
 
         $pdf = new Pdf($template, [
+            
             'command' => '/app/bin/pdftk'
         ]);
 
