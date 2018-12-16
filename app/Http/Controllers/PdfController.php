@@ -15,7 +15,10 @@ class PdfController extends Controller
             return view('error');
         }
 
-        $pdf = new Pdf($template);
+        $pdf = new Pdf($template, [
+            
+            'command' => '/app/bin/pdftk'
+        ]);
 
         $output = storage_path('app/output/mobility-' . time() . '.pdf');
 
